@@ -1,2 +1,2 @@
 var num = 50;
-var text = "hello flattter earth";
+var text = "hello Cats";
